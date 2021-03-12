@@ -20,3 +20,6 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2] or visit my [Portfolio][1]
 
 ![Ojaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaashampiholi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=#ojaashampiholi)
