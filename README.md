@@ -24,3 +24,5 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2] or visit my [Portfolio][1]
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<R>&logoColor=white&color=2bbc8a)
 
 ![Ojaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaashampiholi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi)](https://github.com/anuraghazra/github-readme-stats)
+
