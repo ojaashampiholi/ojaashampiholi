@@ -17,3 +17,7 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2] or visit my [Portfolio][1]
 
 [2]: https://www.linkedin.com/in/ojaashampiholi/
 [1]: https://ojaashampiholi.github.io/Portfolio_Ojaas_H/index.html
+
+
+
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
