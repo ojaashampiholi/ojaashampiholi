@@ -7,7 +7,7 @@ I hold BE in Electronics and Telecommunications from University of Mumbai (GPA -
 
 <!-- Actual text -->
 
-You can find me on LinkedIn [![LinkedIn][2.2]][2] or visit my [Portfolio][1]
+You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 
 <!-- Icons -->
 
