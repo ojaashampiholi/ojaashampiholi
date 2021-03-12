@@ -18,17 +18,5 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2] or visit my [Portfolio][1]
 [2]: https://www.linkedin.com/in/ojaashampiholi/
 [1]: https://ojaashampiholi.github.io/Portfolio_Ojaas_H/index.html
 
-
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<R>&logoColor=white&color=2bbc8a)
-
 ![Ojaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaashampiholi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=convoychat" />
-</a>
