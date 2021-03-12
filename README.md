@@ -7,7 +7,7 @@ I hold BE in Electronics and Telecommunications from University of Mumbai (GPA -
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+You can find me on LinkedIn [![LinkedIn][2.2]][2] or visit my [Portfolio][1]
 
 <!-- Icons -->
 
@@ -16,3 +16,4 @@ You can find me on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/ojaashampiholi/
+[1]: https://ojaashampiholi.github.io/Portfolio_Ojaas_H/index.html
