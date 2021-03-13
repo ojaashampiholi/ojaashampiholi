@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Ojaas Hampiholi.
+### Hi this is [Ojaas][2] 👋
 
 I am currently working towards MS in Data Science from Indiana University Bloomington (GPA - 3.744 / 4).
 I hold BE in Electronics and Telecommunications from University of Mumbai (GPA - 7.98 / 10)
@@ -22,4 +20,4 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts&show_owner=ojaashampiholi)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
