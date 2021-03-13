@@ -33,6 +33,8 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 ![Ojaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaashampiholi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![GitHub ojaashampiholi](https://img.shields.io/github/followers/ojaashampiholi?label=follow&style=social)](https://github.com/ojaashampiholi)
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
 -->
