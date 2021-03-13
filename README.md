@@ -20,4 +20,4 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts&show_owner=ojaashampiholi)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts&description=SQL Codes done as part of ADC Course)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
