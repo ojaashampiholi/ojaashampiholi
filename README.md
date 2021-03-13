@@ -8,17 +8,17 @@ I hold BE in Electronics and Telecommunications from University of Mumbai (GPA -
 You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 </br>
 **Skills**
-> **Data Science: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing) 
+**Data Science** : Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing)
 
-> **Programming Languages: Python, R, MATLAB, Java
+**Programming Languages**: Python, R, MATLAB, Java
 
-> **Big Data Tools: Spark SQL, Google BigQuery, Hadoop HDFS and DataLakes, MongoDb
+**Big Data Tools**: Spark SQL, Google BigQuery, Hadoop HDFS and DataLakes, MongoDb
  
-> **Platforms: Google Cloud Platform (GCP), JetStream, Amazon Web Services (AWS), DataBricks
+**Cloud Platforms**: Google Cloud Platform (GCP), JetStream, Amazon Web Services (AWS)
 
-> **Database: Oracle SQL/PLSQL, PostgreSQL, MySQL, Google BigQuery
+**Database**: Oracle SQL/PLSQL, PostgreSQL, MySQL, Google BigQuery, MongoDb
 
-> **Software: Tableau, TensorFlow, PyTorch, AirFlow
+**Software and Packages**: Tableau, AirFlow, TensorFlow, PyTorch, PyCaret
 
 </br>
 <!-- Icons -->
