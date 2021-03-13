@@ -6,7 +6,21 @@ I hold BE in Electronics and Telecommunications from University of Mumbai (GPA -
 <!-- Actual text -->
 
 You can find me on [LinkedIn][2] or visit my [Portfolio][1]
+</br>
+**Skills**
+> **Data Science: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing) 
 
+> **Programming Languages: Python, R, MATLAB, Java
+
+> **Big Data Tools: Spark SQL, Google BigQuery, Hadoop HDFS and DataLakes, MongoDb
+ 
+> **Platforms: Google Cloud Platform (GCP), JetStream, Amazon Web Services (AWS), DataBricks
+
+> **Database: Oracle SQL/PLSQL, PostgreSQL, MySQL, Google BigQuery
+
+> **Software: Tableau, TensorFlow, PyTorch, AirFlow
+
+</br>
 <!-- Icons -->
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
