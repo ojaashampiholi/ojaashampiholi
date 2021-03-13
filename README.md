@@ -22,4 +22,4 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=ojaashampiholi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
