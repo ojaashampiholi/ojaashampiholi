@@ -8,7 +8,7 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 
 **Skills**
 
-**Data Science** : Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing)
+**Data Science** : Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis
 
 **Programming Languages**: Python, R, MATLAB, Java
 
