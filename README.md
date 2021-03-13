@@ -35,6 +35,7 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 
 
 [![GitHub ojaashampiholi](https://img.shields.io/github/followers/ojaashampiholi?label=follow&style=social)](https://github.com/ojaashampiholi)
+[![Linkedin: ojaashampiholi](https://img.shields.io/badge/-ojaashampiholi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojaashampiholi/)](https://www.linkedin.com/in/ojaashampiholi/)
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
 -->
