@@ -1,11 +1,12 @@
 ### Hi this is [Ojaas][2] 👋
-
+</br>
 I am currently working towards MS in Data Science from Indiana University Bloomington (GPA - 3.744 / 4).
 I hold BE in Electronics and Telecommunications from University of Mumbai (GPA - 7.98 / 10)
 
 <!-- Actual text -->
-
+</br>
 You can find me on [LinkedIn][2] or visit my [Portfolio][1]
+</br>
 </br>
 **Skills**
 **Data Science** : Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis (ANOVA & Hypothesis Testing)
