@@ -1,10 +1,12 @@
 ### Hi this is [Ojaas][2] 👋
 </br>
-I am currently working towards MS in Data Science from Indiana University Bloomington (GPA - 3.744 / 4).
-I hold BE in Electronics and Telecommunications from University of Mumbai (GPA - 7.98 / 10)
+My academic Qualifications are:
+
+MS in Data Science - Indiana University Bloomington (GPA - 3.77 / 4).
+BE in Electronics and Telecommunications - University of Mumbai (GPA - 7.98 / 10)
 
 <!-- Actual text -->
-You can find me on [LinkedIn][2] or visit my [Portfolio][1]
+You can find me on [LinkedIn][1] or visit my [Portfolio][2] or [Medium Blog][3]
 
 **Skills**
 
@@ -27,8 +29,9 @@ You can find me on [LinkedIn][2] or visit my [Portfolio][1]
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/ojaashampiholi/
-[1]: https://ojaashampiholi.github.io/Portfolio_Ojaas_H/index.html
+[1]: https://www.linkedin.com/in/ojaashampiholi/
+[2]: https://ojaashampiholi.github.io/Portfolio_Ojaas_H/index.html
+[3]: https://ojaashampiholi.medium.com/
 
 ![Ojaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaashampiholi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
