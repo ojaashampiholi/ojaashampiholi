@@ -1,5 +1,5 @@
 ## Hi this is [Ojaas][2] 👋
-</br>
+
 **My academic Qualifications are:**
 
 MS in Data Science - Indiana University Bloomington (GPA - 3.77 / 4).
