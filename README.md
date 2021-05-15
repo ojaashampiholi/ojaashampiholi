@@ -1,14 +1,15 @@
-### Hi this is [Ojaas][2] 👋
+## Hi this is [Ojaas][2] 👋
 </br>
-My academic Qualifications are:
+## My academic Qualifications are:
 
 MS in Data Science - Indiana University Bloomington (GPA - 3.77 / 4).
+
 BE in Electronics and Telecommunications - University of Mumbai (GPA - 7.98 / 10)
 
 <!-- Actual text -->
 You can find me on [LinkedIn][1] or visit my [Portfolio][2] or [Medium Blogs][3] here.
 
-**Skills**
+## Skills
 
 **Data Science** : Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis
 
