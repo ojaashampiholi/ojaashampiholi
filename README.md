@@ -43,4 +43,10 @@ I enjoy thoughtful conversations about AI/ML leadership, useful systems, technic
 
 [LinkedIn](https://www.linkedin.com/in/ojaashampiholi/) · [Kaggle](https://www.kaggle.com/ojaashampiholi) · [Email](mailto:ojaas2013@gmail.com)
 
-<sub>Outside work, I write fiction and poetry, tinker with Raspberry Pi projects, and make time for boxing, tennis, football, and pickleball.</sub>
+## Outside work
+
+I write fiction and poetry, mostly because not every idea wants to become a slide deck or a model.
+
+I also enjoy tinkering with Raspberry Pi projects, especially where hardware, code, and curiosity overlap.
+
+When I am away from a screen, you will usually find me boxing, playing tennis, following football, or discovering that pickleball is more competitive than it looks.
