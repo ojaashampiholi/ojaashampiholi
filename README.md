@@ -1,45 +1,46 @@
-## Hi this is [Ojaas][2] 👋
+# Hi, I'm Ojaas 👋
 
-**My academic Qualifications are:**
+> **AI/ML technical leader and hands-on builder, working on production ML, GenAI, customer intelligence, and responsible AI.**
 
-MS in Data Science - Indiana University Bloomington (GPA - 3.77 / 4).
+I build practical decision systems and AI products that people can trust, use, and learn from. I currently work on customer intelligence and production ML at Samsung, following earlier experience in Payments ML at Amazon.
 
-BE in Electronics and Telecommunications - University of Mumbai (GPA - 7.98 / 10)
+My work is centred on:
 
-<!-- Actual text -->
-You can find me on [LinkedIn][1] or visit my [Portfolio][2] or [Medium Blogs][3] here.
+- **Production ML and decision systems**
+- **Agentic AI, GenAI, and LLM applications**
+- **Customer intelligence, analytics, and personalisation**
+- **Responsible AI, governance, privacy, and reliable deployment**
 
-## Skills
+## Selected work
 
-**Data Science** : Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Exploratory Data Analysis, Multivariate and Non-parametric Analysis, Statistical Modelling & Analysis
+- [**The Cosmic Notebook**](https://ojaashampiholi.github.io/the-cosmic-notebook/)  
+  An accessible public-learning notebook for astronomy and physics discoveries, designed to make complex ideas easier to explore and follow.
 
-**Programming Languages**: Python, R, MATLAB, Java
+- **The Morning Compass** *(in development)*  
+  A reader-first daily news project focused on the stories worth following and the questions worth carrying into the day.
 
-**Big Data Tools**: Spark SQL, Google BigQuery, Hadoop HDFS and DataLakes, MongoDb
- 
-**Cloud Platforms**: Google Cloud Platform (GCP), JetStream, Amazon Web Services (AWS)
+- [**Stock Forecasting**](https://github.com/ojaashampiholi/Stock_Forecasting)  
+  An earlier machine-learning project comparing classical Vector Autoregression with LSTM-based forecasting, built to explore the trade-offs between statistical and deep-learning approaches.
 
-**Database**: Oracle SQL/PLSQL, PostgreSQL, MySQL, Google BigQuery, MongoDb
+## Writing and learning in public
 
-**Software and Packages**: Tableau, AirFlow, TensorFlow, PyTorch, PyCaret
+- [**LinkedIn**](https://www.linkedin.com/in/ojaashampiholi/)  
+  Short-form technology writing on practical AI engineering, data, product thinking, and the questions that emerge while building.
 
-</br>
-<!-- Icons -->
+- [**Medium**](https://medium.com/@ojaashampiholi)  
+  Longer-form articles that unpack AI, data, software engineering, and their real-world implications with more room for argument and detail.
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+- [**Substack**](https://ojaashampiholi.substack.com/)  
+  Fiction, poetry, and other writing that gives the technical work a different kind of breathing room.
 
-<!-- Links to your social media accounts -->
+## Background
 
-[1]: https://www.linkedin.com/in/ojaashampiholi/
-[2]: https://ojaashampiholi.github.io/Portfolio_Ojaas_H/index.html
-[3]: https://ojaashampiholi.medium.com/
+I hold an **MS in Data Science** from **Indiana University Bloomington** and a **BE in Electronics and Telecommunications** from the **University of Mumbai**.
 
-![Ojaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaashampiholi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaashampiholi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Let's connect
 
+I enjoy thoughtful conversations about AI/ML leadership, useful systems, technical writing, mentoring, open-source collaboration, and selective advisory work.
 
-[![GitHub ojaashampiholi](https://img.shields.io/github/followers/ojaashampiholi?label=follow&style=social)](https://github.com/ojaashampiholi)
-[![Linkedin: ojaashampiholi](https://img.shields.io/badge/-ojaashampiholi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojaashampiholi/)](https://www.linkedin.com/in/ojaashampiholi/)
-<!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojaashampiholi&repo=Advanced_Database_Concepts)](https://github.com/ojaashampiholi/Advanced_Database_Concepts)
--->
+[LinkedIn](https://www.linkedin.com/in/ojaashampiholi/) · [Kaggle](https://www.kaggle.com/ojaashampiholi) · [Email](mailto:ojaas2013@gmail.com)
+
+<sub>Outside work, I write fiction and poetry, tinker with Raspberry Pi projects, and make time for boxing, tennis, football, and pickleball.</sub>
