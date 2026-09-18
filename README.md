@@ -48,9 +48,7 @@ Most of the public repositories here come from an earlier part of my technical j
 
 My professional work has since moved increasingly toward **production ML, customer and decision systems, GenAI, agents and reliable AI infrastructure**.
 
-I like keeping the older work visible.
-
-Technology careers rarely form neat straight lines, and mine certainly hasn't.
+I like keeping the older work visible as tech careers rarely form neat straight lines, and mine certainly hasn't.
 
 ## Writing & other rabbit holes
 
