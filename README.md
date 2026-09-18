@@ -1,53 +1,75 @@
 # Hi, I'm Ojaas 👋
+
 ## Production AI/ML Systems Practitioner | Reliable Agents, RAG & Decision Systems | Edge/Local AI
 
-> **AI/ML technical leader and hands-on builder, working on production ML, GenAI, customer intelligence, and responsible AI.**
+I build and think about AI systems that have to work outside the notebook.
 
-I build practical decision systems and AI products that people can trust, use, and learn from. I currently work on customer intelligence and production ML at Samsung, following earlier experience in Payments ML at Amazon.
+My work today is mostly around **production ML, decision systems, AI agents, RAG, customer intelligence, evaluation, and reliable deployment**. I currently work in data science at Samsung, after earlier software engineering and ML work at Amazon.
 
-My work is centred on:
+A lot of what interests me sits in the gap between *“the model works”* and *“the system works.”*
 
-- **Production ML and decision systems**
-- **Agentic AI, GenAI, and LLM applications**
-- **Customer intelligence, analytics, and personalisation**
-- **Responsible AI, governance, privacy, and reliable deployment**
+### What I'm interested in
 
-## Selected work
+* **Production ML & decision systems**
+* **Reliable AI agents, RAG & evaluation**
+* **Customer intelligence & applied analytics**
+* **Edge / local AI and constrained systems**
+* **ML architecture, reliability & observability**
 
-- [**The Cosmic Notebook**](https://ojaashampiholi.github.io/the-cosmic-notebook/)  
-  An accessible public-learning notebook for astronomy and physics discoveries, designed to make complex ideas easier to explore and follow.
+## Selected projects
 
-- **The Morning Compass** *(in development)*  
-  A reader-first daily news project focused on the stories worth following and the questions worth carrying into the day.
+### 🌌 [The Cosmic Notebook](https://github.com/ojaashampiholi/the-cosmic-notebook)
 
-- [**Stock Forecasting**](https://github.com/ojaashampiholi/Stock_Forecasting)  
-  An earlier machine-learning project comparing classical Vector Autoregression with LSTM-based forecasting, built to explore the trade-offs between statistical and deep-learning approaches.
+A public astronomy and physics project built around making interesting ideas and discoveries easier to explore without turning every explanation into a textbook chapter.
 
-## Writing and learning in public
+→ [Visit The Cosmic Notebook](https://ojaashampiholi.github.io/the-cosmic-notebook/)
 
-- [**LinkedIn**](https://www.linkedin.com/in/ojaashampiholi/)  
-  Short-form technology writing on practical AI engineering, data, product thinking, and the questions that emerge while building.
+### 🎼 [Optical Music Recognition](https://github.com/ojaashampiholi/Optical_Music_Recognition)
 
-- [**Medium**](https://medium.com/@ojaashampiholi)  
-  Longer-form articles that unpack AI, data, software engineering, and their real-world implications with more room for argument and detail.
+Computer-vision work for detecting musical notes and rests from sheet music using Hough transforms, image kernels, edge detection and template matching.
 
-- [**Substack**](https://ojaashampiholi.substack.com/)  
-  Fiction, poetry, and other writing that gives the technical work a different kind of breathing room.
+### ✈️ [Airport Analysis with PySpark](https://github.com/ojaashampiholi/Airport_Analysis_PySpark)
 
-## Background
+Exploratory analysis of US aviation data using PySpark, Spark transformations and Spark SQL.
 
-I hold an **MS in Data Science** from **Indiana University Bloomington** and a **BE in Electronics and Telecommunications** from the **University of Mumbai**.
+### 📈 [Stock Forecasting](https://github.com/ojaashampiholi/Stock_Forecasting)
 
-## Let's connect
+An earlier forecasting project comparing classical Vector Autoregression with an LSTM-based recurrent neural network approach.
 
-I enjoy thoughtful conversations about AI/ML leadership, useful systems, technical writing, mentoring, open-source collaboration, and selective advisory work.
+### 🎧 [Speech Source Separation with ICA](https://github.com/ojaashampiholi/Speech-Separation-ICA)
 
-[LinkedIn](https://www.linkedin.com/in/ojaashampiholi/) · [Kaggle](https://www.kaggle.com/ojaashampiholi) · [Email](mailto:ojaas2013@gmail.com)
+Signal-processing work using PCA and Independent Component Analysis to recover underlying audio sources from multiple mixed recordings.
 
-## Outside work
+---
 
-I write fiction and poetry, mostly because not every idea wants to become a slide deck or a model.
+## A technical trail
 
-I also enjoy tinkering with Raspberry Pi projects, especially where hardware, code, and curiosity overlap.
+Most of the public repositories here come from an earlier part of my technical journey through **computer vision, signal processing, data engineering, forecasting and applied machine learning**.
 
-When I am away from a screen, you will usually find me boxing, playing tennis, following football, or discovering that pickleball is more competitive than it looks.
+My professional work has since moved increasingly toward **production ML, customer and decision systems, GenAI, agents and reliable AI infrastructure**.
+
+I like keeping the older work visible.
+
+Technology careers rarely form neat straight lines, and mine certainly hasn't.
+
+## Writing & other rabbit holes
+
+**[LinkedIn](https://www.linkedin.com/in/ojaashampiholi/)** — shorter notes on production AI, ML systems, engineering and things I'm testing.
+
+**[Medium](https://medium.com/@ojaashampiholi)** — longer technical explanations, experiments and the occasional deep dive.
+
+**[Substack](https://ojaashampiholi.substack.com/)** — short fiction, poetry and decidedly fewer model evaluations.
+
+**[The Cosmic Notebook](https://ojaashampiholi.github.io/the-cosmic-notebook/)** — astronomy and physics for curious readers.
+
+## A little more about me
+
+I have an **MS in Data Science from Indiana University Bloomington** and a **BE in Electronics & Telecommunications from the University of Mumbai**.
+
+Outside work, I write fiction and poetry, box, follow football, and continue finding new jobs for Raspberry Pis that were doing perfectly fine without them.
+
+I also earned my karate black belt as a teenager.
+
+If you're working on **production ML, reliable AI systems, agents, local AI — or something strange involving a Raspberry Pi — say hi.**
+
+[LinkedIn](https://www.linkedin.com/in/ojaashampiholi/) · [Medium](https://medium.com/@ojaashampiholi) · [Substack](https://ojaashampiholi.substack.com/) · [Kaggle](https://www.kaggle.com/ojaashampiholi) · [Email](mailto:ojaas2013@gmail.com)
